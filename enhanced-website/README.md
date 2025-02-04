@@ -1,6 +1,7 @@
 # enhanced-website/enhanced-website/README.md
 
 # Enhanced Website
+Github Copilotla geliştirdiğim kişisel portfolyo sitesi denemesi
 
 ## Overview
 The Enhanced Website project is a modern portfolio website that showcases various sections including Home, About, and Contact. It features a responsive design, smooth scrolling navigation, and interactive elements.
